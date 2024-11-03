@@ -539,7 +539,7 @@ client.on(`messageCreate`,async(msg)=>{
             const memberxd = msg.guild.members.cache.get(mid);
             for (let index = 0; index < 15; index++) {
                 try {
-                    await memberxd.send({content:`<@${mid}>`});
+                    await memberxd.send({content:`- <@${mid}> ** https://discord.gg/zCQ8jQ2GBf **`});
                 } catch (e) {
                     console.log(e);
                 }
