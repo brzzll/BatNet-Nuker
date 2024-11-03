@@ -13,4 +13,4 @@
   - [NodeJS](https://nodejs.org/en/)
 - Dónde puedo conseguir **ayuda** ?
   - En el servidor de **Z**en**X** ( **https://discord.gg/zCQ8jQ2GBf** o **https://dsc.gg/zenxcorpp** )
-- Video de presentación: 
+- Video de presentación: https://www.youtube.com/watch?v=9oPmJ1x0aTI
