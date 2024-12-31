@@ -14,3 +14,5 @@
 - Dónde puedo conseguir **ayuda** ?
   - En el servidor de **Z**en**X** ( **https://discord.gg/zCQ8jQ2GBf** o **https://dsc.gg/zenxcorpp** )
 - Video de presentación: https://www.youtube.com/watch?v=9oPmJ1x0aTI
+
+- Si vas a usar los códigos, debes dar créditos.
